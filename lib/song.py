@@ -13,6 +13,7 @@ class Song:
 
         self.add_to_genre(self.genre)
         self.add_to_artist(self.artist)
+        
         self.add_to_genres_count(genre)
         self.add_to_artist_count(artist)
     
